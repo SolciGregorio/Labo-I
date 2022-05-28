@@ -8,11 +8,10 @@ int main()
     int i,comparison;
     bool flag = false ;
     int number[15];
-
-    for(i=0; i<14; i++)
+    for(i=0; i<=14; i++)
     {
         cout<<"Ingrese un numero: "<<endl;
-        cin>>v[i];
+        cin>> number[i];
     }
 
     cout<<"------------------"<<endl;
@@ -20,9 +19,9 @@ int main()
     cout<< "ingrese un numero para comparar  ";
     cin>> comparison;
 
-    for (i=0; i<14; i++)
+    for (i=0; i<=14; i++)
     {
-        if(comparison==v[i])
+        if(comparison==number[i])
 
         {
             flag = true;
