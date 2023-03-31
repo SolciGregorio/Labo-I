@@ -1,10 +1,8 @@
 //Nombre:Maria Sol Gregorio
 //TP N° :1
 //Ej N°:6
-
-/*Hacer un programa para que un comercio ingrese por teclado la recaudación en pesos para cada una de las cuatro semanas del mes.
+/*Comentarios: Hacer un programa para que un comercio ingrese por teclado la recaudación en pesos para cada una de las cuatro semanas del mes.
 El programa debe listar la recaudación promedio por semana y el porcentaje de recaudación por semana.*/
-
 
 
 #include <iostream>
